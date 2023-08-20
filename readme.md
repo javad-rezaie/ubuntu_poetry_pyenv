@@ -77,4 +77,4 @@ This repository provides a ready-to-use Python development environment for data 
 
 ## Troubleshooting
 
-If you encounter any issues or have questions, feel free to [open an issue](https://github.com/your-username/your-repo/issues) in this repository.
+If you encounter any issues or have questions, feel free to [open an issue](https://github.com/javad-rezaie/ubuntu_poetry_pyenv/issues) in this repository.
